@@ -50,7 +50,7 @@ Our vision is to modernize academic record-keeping in the digital age by:
 ## Contract Details
 
 - Contract Address: CCC6BJ3QPAR7QFHFMQ6MDEBEVGTQNHGRXO4YUORMR24W6MEKJ3EXMULS
-  ![alt text](Screenshot.png)
+  ![alt text](screenshot.png)
 
 ## Future Scope
 
